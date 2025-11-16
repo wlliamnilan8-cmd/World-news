@@ -1,34 +1,38 @@
 <!DOCTYPE html>
-<html lang="pt">
+<html lang="pt-BR">
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>World News — Notícias Mundiais</title>
+    <title>World News</title>
     <link rel="stylesheet" href="style.css">
 </head>
 
 <body>
 
 <header>
-    <img src="logo.png" alt="World News" class="logo">
-    <nav>
-        <a href="#">Mundo</a>
-        <a href="#">Política</a>
-        <a href="#">Guerra</a>
-        <a href="#">Esportes</a>
-        <a href="#">Cultura</a>
+    <div class="logo-title">
+        <img src="logo.png" class="logo">
+        <h1 class="title">WORLD NEWS</h1>
+    </div>
+
+    <nav class="menu">
+        <a href="#"><span>🌍</span> Mundo</a>
+        <a href="#"><span>⚽</span> Futebol</a>
+        <a href="#"><span>🏅</span> Esportes</a>
+        <a href="#"><span>🏛️</span> Política</a>
+        <a href="#"><span>🔥</span> Cultura</a>
     </nav>
 </header>
 
-<div class="container" id="news-container">
+<section class="container" id="news-container">
     <div class="news-card">
         <div class="news-title">Carregando notícias...</div>
-        <div class="news-desc">Aguarde enquanto buscamos as últimas atualizações</div>
+        <div class="news-desc">Aguarde enquanto buscamos atualizações.</div>
     </div>
-</div>
+</section>
 
 <footer>
-    © 2025 World News — Atualizado automaticamente todos os dias
+    © 2025 World News — Atualizado automaticamente
 </footer>
 
 <script>
@@ -41,16 +45,10 @@ fetch("noticias.json")
         data.forEach(noticia => {
             container.innerHTML += `
                 <div class="news-card">
-                    <img src="${noticia.imagem}" class="news-img">
                     <div class="news-title">${noticia.titulo}</div>
                     <div class="news-desc">${noticia.descricao}</div>
-                </div>
-            `;
+                </div>`;
         });
-    })
-    .catch(err => {
-        document.getElementById("news-container").innerHTML =
-            "<div class='news-card'>Erro ao carregar notícias.</div>";
     });
 </script>
 
