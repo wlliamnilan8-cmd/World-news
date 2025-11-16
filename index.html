@@ -4,30 +4,101 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>World News</title>
-    <link rel="stylesheet" href="style.css">
-</head>
 
+    <style>
+        body {
+            margin: 0;
+            font-family: Arial, sans-serif;
+            background-color: #0d0d0d;
+            color: #fff;
+        }
+
+        header {
+            background-color: #111;
+            padding: 15px 20px;
+            text-align: center;
+            font-size: 22px;
+            font-weight: bold;
+            color: #ffffff;
+            border-bottom: 1px solid #333;
+        }
+
+        .menu {
+            display: flex;
+            overflow-x: auto;
+            background-color: #141414;
+            padding: 10px;
+            gap: 12px;
+            border-bottom: 1px solid #222;
+        }
+
+        .menu a {
+            color: #fff;
+            text-decoration: none;
+            padding: 8px 14px;
+            background-color: #1f1f1f;
+            border-radius: 20px;
+            white-space: nowrap;
+            font-size: 16px;
+            transition: 0.2s;
+        }
+
+        .menu a:hover {
+            background-color: #333;
+        }
+
+        #news-container {
+            padding: 20px;
+        }
+
+        .news-card {
+            background-color: #1a1a1a;
+            padding: 15px;
+            margin-bottom: 15px;
+            border-radius: 12px;
+            border: 1px solid #333;
+        }
+
+        .news-title {
+            font-size: 20px;
+            font-weight: bold;
+            margin-bottom: 8px;
+            color: #ffffff;
+        }
+
+        .news-desc {
+            font-size: 16px;
+            color: #cccccc;
+        }
+
+        footer {
+            text-align: center;
+            padding: 15px;
+            background-color: #111;
+            color: #888;
+            margin-top: 20px;
+            border-top: 1px solid #333;
+        }
+    </style>
+</head>
 <body>
 
 <header>
-    <div class="logo-title">
-        <img src="logo.png" class="logo">
-        <h1 class="title">WORLD NEWS</h1>
-    </div>
-
-    <nav class="menu">
-        <a href="#"><span>🌍</span> Mundo</a>
-        <a href="#"><span>⚽</span> Futebol</a>
-        <a href="#"><span>🏅</span> Esportes</a>
-        <a href="#"><span>🏛️</span> Política</a>
-        <a href="#"><span>🔥</span> Cultura</a>
-    </nav>
+    🌐 World News
 </header>
+
+<nav class="menu">
+    <a href="#"><span>🌍</span> Mundo</a>
+    <a href="#"><span>⚽</span> Futebol</a>
+    <a href="#"><span>🏅</span> Esportes</a>
+    <a href="#"><span>🏛️</span> Política</a>
+    <a href="#"><span>🔥</span> Cultura</a>
+</nav>
 
 <section class="container" id="news-container">
     <div class="news-card">
         <div class="news-title">Carregando notícias...</div>
-        <div class="news-desc">Aguarde enquanto buscamos atualizações.</div>
+        <div class="news-desc">Aguarde enquanto buscamos as atualizações.</div>
     </div>
 </section>
 
@@ -45,10 +116,19 @@ fetch("noticias.json")
         data.forEach(noticia => {
             container.innerHTML += `
                 <div class="news-card">
-                    <div class="news-title">${noticia.titulo}</div>
-                    <div class="news-desc">${noticia.descricao}</div>
-                </div>`;
+                    <div class="news-title">${noticia.title}</div>
+                    <div class="news-desc">${noticia.description}</div>
+                </div>
+            `;
         });
+    })
+    .catch(err => {
+        document.getElementById("news-container").innerHTML = `
+            <div class="news-card">
+                <div class="news-title">Erro ao carregar notícias</div>
+                <div class="news-desc">Não foi possível ler o arquivo noticias.json.</div>
+            </div>
+        `;
     });
 </script>
 
