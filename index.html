@@ -1,163 +1,39 @@
 <!DOCTYPE html>
 <html lang="pt-BR">
 <head>
-  <meta charset="utf-8">
-  <title>WORLD NEWS — Notícias do Mundo</title>
-  <meta name="viewport" content="width=device-width,initial-scale=1">
-  <link rel="icon" href="logo.png">
-  <link rel="stylesheet" href="style.css">
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>World News</title>
+    <link rel="stylesheet" href="style.css">
 </head>
+
 <body>
-  <header class="site-header">
-    <div class="container header-inner">
-      <img src="logo.png" alt="WORLD NEWS" class="logo">
-      <h1 class="site-title">WORLD NEWS</h1>
-      <nav class="main-nav">
-        <a href="#">Início</a>
+
+<header class="topo">
+    <img src="logo.png" class="logo-site" alt="World News Logo">
+
+    <nav class="menu">
         <a href="#">Mundo</a>
+        <a href="#">Guerra</a>
+        <a href="#">Política</a>
         <a href="#">Economia</a>
-        <a href="#">Tecnologia</a>
-      </nav>
-    </div>
-  </header>
+        <a href="#">Esportes</a>
+        <a href="#">Cultura</a>
+        <a href="#">Social</a>
+    </nav>
+</header>
 
-  <main class="container">
-    <section class="hero">
-      <h2>Últimas notícias do mundo</h2>
-      <p>Atualizado automaticamente todos os dias — agregador de fontes internacionais.</p>
-    </section>
+<section class="principal">
+    <h1>Últimas Notícias do Mundo</h1>
+    <div id="noticias"></div>
+</section>
 
-    <!-- GRID DE NOTÍCIAS (inserido automaticamente) -->
-    <section id="news-grid" class="grid">
-      
-    <article class="card">
-      <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0acf/live/f99f2110-c1cc-11f0-8669-5560f5c90fbe.jpg" alt="imagem">
-      <div class="card-content">
-        <h3><a href="https://www.bbc.com/news/articles/c891jp9j79do?at_medium=RSS&at_campaign=rss" target="_blank" rel="noopener noreferrer">Trump says he will take legal action against BBC over Panorama edit</a></h3>
-        <p>The US president confirmed he intends to sue the broadcaster for at least $1bn over the Panorama edit of a 2021 speech.</p>
-        <div class="meta"><a href="https://www.bbc.com/news/articles/c891jp9j79do?at_medium=RSS&at_campaign=rss" target="_blank" rel="noopener noreferrer">Leia na fonte</a></div>
-      </div>
-    </article>
-    
+<footer>
+    © 2025 World News — Atualizado automaticamente todos os dias.
+</footer>
 
-    <article class="card">
-      <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c945/live/5af4f750-c1aa-11f0-a67e-9bebb1aed6eb.jpg" alt="imagem">
-      <div class="card-content">
-        <h3><a href="https://www.bbc.com/news/articles/cdjr4xw83eko?at_medium=RSS&at_campaign=rss" target="_blank" rel="noopener noreferrer">Trump rolls back tariffs on dozens of food products</a></h3>
-        <p>The executive order allowing products like coffee and bananas to escape tariffs comes as the Trump administration faces mounting pressure over rising prices.</p>
-        <div class="meta"><a href="https://www.bbc.com/news/articles/cdjr4xw83eko?at_medium=RSS&at_campaign=rss" target="_blank" rel="noopener noreferrer">Leia na fonte</a></div>
-      </div>
-    </article>
-    
+<script src="gerar_noticias.js"></script>
 
-    <article class="card">
-      <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6269/live/0e701860-c268-11f0-a3d5-9d7d626b89bd.jpg" alt="imagem">
-      <div class="card-content">
-        <h3><a href="https://www.bbc.com/news/articles/cy40z22qqwwo?at_medium=RSS&at_campaign=rss" target="_blank" rel="noopener noreferrer">Thousands march outside COP30 summit in call for action</a></h3>
-        <p>This is the first time since 2021 that protesters have been allowed to demonstrate outside the UN talks.</p>
-        <div class="meta"><a href="https://www.bbc.com/news/articles/cy40z22qqwwo?at_medium=RSS&at_campaign=rss" target="_blank" rel="noopener noreferrer">Leia na fonte</a></div>
-      </div>
-    </article>
-    
-
-    <article class="card">
-      <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1e1e/live/81c4bf20-c25c-11f0-80d4-cd6e0a140eb7.jpg" alt="imagem">
-      <div class="card-content">
-        <h3><a href="https://www.bbc.com/news/articles/cvgwyyd8l58o?at_medium=RSS&at_campaign=rss" target="_blank" rel="noopener noreferrer">Zelensky vows energy sector overhaul after $100m corruption scandal</a></h3>
-        <p>State-owned energy firms will be fully audited and new management brought in, the Ukrainian PM says.</p>
-        <div class="meta"><a href="https://www.bbc.com/news/articles/cvgwyyd8l58o?at_medium=RSS&at_campaign=rss" target="_blank" rel="noopener noreferrer">Leia na fonte</a></div>
-      </div>
-    </article>
-    
-
-    <article class="card">
-      <img src="https://via.placeholder.com/800x450?text=World+News" alt="imagem">
-      <div class="card-content">
-        <h3><a href="https://www.aljazeera.com/news/2025/11/15/trump-issues-two-pardons-related-to-investigation-into-january-6-2021-riot?traffic_source=rss" target="_blank" rel="noopener noreferrer">Trump issues two pardons related to investigation into January 6, 2021 riot</a></h3>
-        <p>Suzanne Ellen Kaye was convicted for threatening to shoot FBI agents.</p>
-        <div class="meta"><a href="https://www.aljazeera.com/news/2025/11/15/trump-issues-two-pardons-related-to-investigation-into-january-6-2021-riot?traffic_source=rss" target="_blank" rel="noopener noreferrer">Leia na fonte</a></div>
-      </div>
-    </article>
-    
-
-    <article class="card">
-      <img src="https://via.placeholder.com/800x450?text=World+News" alt="imagem">
-      <div class="card-content">
-        <h3><a href="https://www.aljazeera.com/video/inside-story/2025/11/15/is-global-sports-betting-out-of?traffic_source=rss" target="_blank" rel="noopener noreferrer">Is global sports betting out of control?</a></h3>
-        <p>Hundreds of Turkish footballers and referees have been found to hold illegal betting accounts.</p>
-        <div class="meta"><a href="https://www.aljazeera.com/video/inside-story/2025/11/15/is-global-sports-betting-out-of?traffic_source=rss" target="_blank" rel="noopener noreferrer">Leia na fonte</a></div>
-      </div>
-    </article>
-    
-
-    <article class="card">
-      <img src="https://via.placeholder.com/800x450?text=World+News" alt="imagem">
-      <div class="card-content">
-        <h3><a href="https://www.aljazeera.com/news/2025/11/15/gazas-medical-students-help-health-system-decimated-by-israels-war?traffic_source=rss" target="_blank" rel="noopener noreferrer">Gaza’s medical students help health system decimated by Israel’s war</a></h3>
-        <p>The UN says Israel has deliberately been targeting Gaza&#x27;s health facilities and killing medical personnel.</p>
-        <div class="meta"><a href="https://www.aljazeera.com/news/2025/11/15/gazas-medical-students-help-health-system-decimated-by-israels-war?traffic_source=rss" target="_blank" rel="noopener noreferrer">Leia na fonte</a></div>
-      </div>
-    </article>
-    
-
-    <article class="card">
-      <img src="https://via.placeholder.com/800x450?text=World+News" alt="imagem">
-      <div class="card-content">
-        <h3><a href="https://www.aljazeera.com/news/2025/11/15/ukraine-says-it-attacked-russian-oil-refinery-near-moscow?traffic_source=rss" target="_blank" rel="noopener noreferrer">Ukraine says it attacked Russian oil refinery near Moscow as winter looms</a></h3>
-        <p>Strike comes a day after fierce Russian assault on Ukrainian capital Kyiv killed at least six people and injured dozens.</p>
-        <div class="meta"><a href="https://www.aljazeera.com/news/2025/11/15/ukraine-says-it-attacked-russian-oil-refinery-near-moscow?traffic_source=rss" target="_blank" rel="noopener noreferrer">Leia na fonte</a></div>
-      </div>
-    </article>
-    
-
-    <article class="card">
-      <img src="https://static01.nyt.com/images/2025/11/14/multimedia/00int-uk-bbc-01-mvbz/00int-uk-bbc-01-mvbz-mediumSquareAt3X-v2.jpg" alt="imagem">
-      <div class="card-content">
-        <h3><a href="https://www.nytimes.com/2025/11/15/world/europe/uk-bbc-crisis.html" target="_blank" rel="noopener noreferrer">Seven Days of Paralysis: Inside the BBC Crisis Over a Trump Documentary</a></h3>
-        <p>With board members and executives deadlocked over how to respond, the news organization kept silent for days, allowing a controversy to snowball.</p>
-        <div class="meta"><a href="https://www.nytimes.com/2025/11/15/world/europe/uk-bbc-crisis.html" target="_blank" rel="noopener noreferrer">Leia na fonte</a></div>
-      </div>
-    </article>
-    
-
-    <article class="card">
-      <img src="https://static01.nyt.com/images/2025/11/15/multimedia/15int-chile-election-president-zqgf/15int-chile-election-president-zqgf-mediumSquareAt3X.jpg" alt="imagem">
-      <div class="card-content">
-        <h3><a href="https://www.nytimes.com/2025/11/15/world/americas/gabriel-boric-chile-president.html" target="_blank" rel="noopener noreferrer">What Happened to Gabriel Boric’s Leftist Promises for Chile?</a></h3>
-        <p>When he was elected four years ago, President Gabriel Boric of Chile carried ambitious promises and new energy. Then reality kicked in.</p>
-        <div class="meta"><a href="https://www.nytimes.com/2025/11/15/world/americas/gabriel-boric-chile-president.html" target="_blank" rel="noopener noreferrer">Leia na fonte</a></div>
-      </div>
-    </article>
-    
-
-    <article class="card">
-      <img src="https://static01.nyt.com/images/2025/11/15/multimedia/15int-trump-saudi01a-photo-wzml/15int-trump-saudi01a-photo-wzml-mediumSquareAt3X.jpg" alt="imagem">
-      <div class="card-content">
-        <h3><a href="https://www.nytimes.com/2025/11/15/world/middleeast/trump-organization-saudi-development-deal.html" target="_blank" rel="noopener noreferrer">Trump Organization Is Said to Be in Talks on a Saudi Government Real Estate Deal</a></h3>
-        <p>The chief executive of a Saudi firm says a Trump-branded project is “just a matter of time.” The Trump Organization’s major foreign partner is also signaling new Saudi deals.</p>
-        <div class="meta"><a href="https://www.nytimes.com/2025/11/15/world/middleeast/trump-organization-saudi-development-deal.html" target="_blank" rel="noopener noreferrer">Leia na fonte</a></div>
-      </div>
-    </article>
-    
-
-    <article class="card">
-      <img src="https://static01.nyt.com/images/2025/11/13/multimedia/00int-ukraine-energy-01-jwpg/00int-ukraine-energy-01-jwpg-mediumSquareAt3X.jpg" alt="imagem">
-      <div class="card-content">
-        <h3><a href="https://www.nytimes.com/2025/11/15/world/europe/ukraine-russia-energy-winter-cold-gas.html" target="_blank" rel="noopener noreferrer">Russia Tried to Cut Ukraine’s Lights. Now It’s Aiming for the Heat.</a></h3>
-        <p>Moscow’s attacks on gas supplies, the main source of warmth for most Ukrainian households, could plunge millions into the cold.</p>
-        <div class="meta"><a href="https://www.nytimes.com/2025/11/15/world/europe/ukraine-russia-energy-winter-cold-gas.html" target="_blank" rel="noopener noreferrer">Leia na fonte</a></div>
-      </div>
-    </article>
-    
-    </section>
-  </main>
-
-  <footer class="site-footer">
-    <div class="container">
-      <p>WORLD NEWS © 2025 — Agregador automático. Fontes: BBC, Reuters, AP, Al Jazeera, NYT e outras.</p>
-    </div>
-  </footer>
-
-  <script src="script.js"></script>
 </body>
 </html>
+
