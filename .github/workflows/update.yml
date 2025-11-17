@@ -2,7 +2,7 @@ name: Atualizar Notícias
 
 on:
   schedule:
-    - cron: '0 * * * *'  # roda 1 vez por hora
+    - cron: '0 * * * *'  # Roda 1 vez por hora
   workflow_dispatch:
 
 jobs:
@@ -12,6 +12,8 @@ jobs:
     steps:
       - name: Baixar repositório
         uses: actions/checkout@v3
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
 
       - name: Instalar Python
         uses: actions/setup-python@v4
@@ -33,7 +35,7 @@ jobs:
           
           git add noticias.json
 
-          # EVITA ERRO QUANDO NÃO TEM NADA PRA COMMITAR
+          # evitar erro quando não existe nada pra commitar
           if git diff --cached --quiet; then
             echo "Nenhuma atualização encontrada."
             exit 0
