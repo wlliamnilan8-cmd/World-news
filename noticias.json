@@ -1,14 +1,18 @@
 [
     {
-        "article_id": "323ae0da8e3ab757324bffe683a831c8",
-        "link": "https://valor.globo.com/empresas/noticia/2025/11/18/panasonic-vendera-unidade-de-produtos-para-residencias-a-fabricante-de-ziperes-ykk.ghtml",
-        "title": "Panasonic venderá unidade de produtos para residências à fabricante de zíperes YKK",
-        "description": "A Panasonic anunciou na segunda-feira a venda de s...",
+        "article_id": "56129a115b949adeadcd72fbff856841",
+        "link": "https://www.correiobraziliense.com.br/politica/2025/11/7294534-pl-antifaccao-motta-banca-votacao-mesmo-sem-consenso.html",
+        "title": "Pl Antifaccao Motta Banca Votacao Mesmo Sem Consenso",
+        "description": "Presidente da Câmara diz que relatório é 'a resposta mais dura da história do Parlamento no enfrentamento do crime organizado', mas texto é alvo de críticas. Governistas reclamam, entre outros pontos, de impactos à PF; oposição quer incluir tema do terrorismo",
         "content": "ONLY AVAILABLE IN PAID PLANS",
         "keywords": [
-            "valor"
+            "pt",
+            "pl",
+            "hugo motta"
         ],
-        "creator": null,
+        "creator": [
+            "Danandra Rocha"
+        ],
         "language": "portuguese",
         "country": [
             "brazil"
@@ -17,15 +21,15 @@
             "lifestyle",
             "top"
         ],
-        "pubDate": "2025-11-18 05:38:55",
+        "pubDate": "2025-11-18 06:55:00",
         "pubDateTZ": "UTC",
-        "image_url": "https://s2-valor.glbimg.com/Nxeh9Q7dmMAXpHNZEJnqRCpBmDo=/1200x/smart/filters:cover():strip_icc()/i.s3.glbimg.com/v1/AUTH_63b422c2caee4269b8b34177e8876b93/internal_photos/bs/2019/A/l/VBKYkhTz64gkNDSIHE1g/agencias-07-084.jpg",
+        "image_url": "https://midias.correiobraziliense.com.br/_midias/jpg/2025/11/17/675x450/1_img20251112205629295-61025511.jpg?20251117223619%3F20251117223619=",
         "video_url": null,
-        "source_id": "valor_globo",
-        "source_name": "Valor Globo",
-        "source_priority": 2786,
-        "source_url": "https://valor.globo.com",
-        "source_icon": "https://n.bytvi.com/valor_globo.png",
+        "source_id": "correiobraziliense",
+        "source_name": "Correio Braziliense",
+        "source_priority": 267296,
+        "source_url": "https://www.correiobraziliense.com.br",
+        "source_icon": "https://n.bytvi.com/correiobraziliense.png",
         "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
         "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
         "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
@@ -35,9 +39,52 @@
         "duplicate": false
     },
     {
-        "article_id": "2267d67af2493f6c92e0c73f415dc6ed",
-        "link": "https://br.investing.com/news/commodities-news/os-futuros-de-ouro-cairam-durante-a-sessao-asiatica-1749179",
-        "title": "Os Futuros de Ouro caíram durante a sessão asiática",
+        "article_id": "c3c322e50aa2b34cb88f4713f89baab6",
+        "link": "https://www.correiobraziliense.com.br/politica/2025/11/7294613-diretor-da-pf-sera-ouvido-na-cpi-do-crime-organizado-nesta-terca-feira.html",
+        "title": "Diretor Da Pf Sera Ouvido Na Cpi Do Crime Organizado Nesta Terca Feira",
+        "description": "Intenção do colegiado é colher informações estratégicas sobre a atuação das facções criminosas no país e o avanço de suas estruturas econômicas e territoriais",
+        "content": "ONLY AVAILABLE IN PAID PLANS",
+        "keywords": [
+            "cpi do crime organizado",
+            "crime organizado",
+            "depoimentos",
+            "crime organizad",
+            "combate",
+            "crime",
+            "cpi"
+        ],
+        "creator": [
+            "Alícia Bernardes"
+        ],
+        "language": "portuguese",
+        "country": [
+            "brazil"
+        ],
+        "category": [
+            "lifestyle",
+            "top"
+        ],
+        "pubDate": "2025-11-18 06:55:00",
+        "pubDateTZ": "UTC",
+        "image_url": "https://midias.correiobraziliense.com.br/_midias/jpg/2025/08/28/675x450/1_28082025ea-37-58898408.jpg?20251117212240%3F20251117212240=",
+        "video_url": null,
+        "source_id": "correiobraziliense",
+        "source_name": "Correio Braziliense",
+        "source_priority": 267296,
+        "source_url": "https://www.correiobraziliense.com.br",
+        "source_icon": "https://n.bytvi.com/correiobraziliense.png",
+        "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+        "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+        "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
+        "duplicate": false
+    },
+    {
+        "article_id": "b2b1b7ead23300222cf2deb400a7bc2c",
+        "link": "https://br.investing.com/news/analyst-ratings/ubs-inicia-cobertura-da-caretrust-reit-com-recomendacao-de-compra-93CH-1749207",
+        "title": "UBS inicia cobertura da CareTrust REIT com recomendação de compra",
         "description": null,
         "content": "ONLY AVAILABLE IN PAID PLANS",
         "keywords": null,
@@ -49,11 +96,12 @@
             "brazil"
         ],
         "category": [
+            "lifestyle",
             "top"
         ],
-        "pubDate": "2025-11-18 05:25:09",
+        "pubDate": "2025-11-18 06:53:30",
         "pubDateTZ": "UTC",
-        "image_url": "https://i-invdn-com.investing.com/news/LYNXMPEA5N0M4_M.jpg",
+        "image_url": "https://i-invdn-com.investing.com/news/World_News_8_M_1440052125.jpg",
         "video_url": null,
         "source_id": "investing_br",
         "source_name": "Investing Brasil",
@@ -69,257 +117,9 @@
         "duplicate": false
     },
     {
-        "article_id": "a356388a653c3f92f325a71fa519df84",
-        "link": "https://www.mixvale.com.br/2025/11/18/a-previsao-do-tempo-com-o-fim-de-no-dia-seguinte-sugere-ate-60-cm-de-neve-nas-montanhas-aomori-bem-como-alerta-de-tempestade-no-japao/",
-        "title": "A previsão do tempo com o fim de no dia seguinte sugere até 60 cm de neve nas montanhas Aomori bem como alerta de tempestade no Japão",
-        "description": "Aomori enfrenta sua primeira expressivo nevasca da temporada nesta terça-feira, 18 de novembro. A chegada de uma intensa massa de ar frio dever&aacu",
-        "content": "ONLY AVAILABLE IN PAID PLANS",
-        "keywords": [
-            "nevasca de aomori",
-            "neve pesada japão",
-            "neve intensa japão",
-            "previsão do tempo amanhã",
-            "acumulação de neve em aomori",
-            "últimas notícias",
-            "previsão do tempo para amanhã em aomori",
-            "alerta de nevasca",
-            "alerta nevasca",
-            "acumulação neve aomori",
-            "nevasca aomori"
-        ],
-        "creator": [
-            "Redação"
-        ],
-        "language": "portuguese",
-        "country": [
-            "brazil"
-        ],
-        "category": [
-            "lifestyle",
-            "top"
-        ],
-        "pubDate": "2025-11-18 05:23:43",
-        "pubDateTZ": "UTC",
-        "image_url": "https://www.mixvale.com.br/wp-content/uploads/2025/03/Nevasca-2.jpg",
-        "video_url": null,
-        "source_id": "mixvale",
-        "source_name": "Mix Vale",
-        "source_priority": 95409,
-        "source_url": "https://www.mixvale.com.br",
-        "source_icon": "https://n.bytvi.com/mixvale.png",
-        "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-        "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-        "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
-        "duplicate": false
-    },
-    {
-        "article_id": "9566a2c14e96209fcfb461c3adf657ca",
-        "link": "https://istoe.com.br/horoscopo-saiba-o-que-esperar-para-o-seu-signo-nesta-terca-feira-dia-18-3",
-        "title": "Horóscopo: saiba o que esperar para o seu signo nesta terça-feira, dia 18",
-        "description": "A Lua Minguante em Escorpião dá lugar à Lua Nova entre quarta e quinta-feira, trazendo noites mais escuras, introspecção e reflexões profundas sobre relacionamentos e decisões. A proximidade com Vênus torna o clima sedutor e sutil, enquanto Mercúrio retrógrado sugere que o silêncio e a discrição são mais valiosos que palavras diretas. O período favorece conexões delicadas e inteligentes, estímulo à criatividade e atenção às emoções, com recomendações específicas para cada signo em relações, trabalho e desenvolvimento pessoal.",
-        "content": "ONLY AVAILABLE IN PAID PLANS",
-        "keywords": [
-            "notícias"
-        ],
-        "creator": [
-            "Giorgia Cavicchioli"
-        ],
-        "language": "portuguese",
-        "country": [
-            "brazil"
-        ],
-        "category": [
-            "lifestyle",
-            "top"
-        ],
-        "pubDate": "2025-11-18 05:22:24",
-        "pubDateTZ": "UTC",
-        "image_url": "https://istoe.com.br/wp-content/uploads/2025/11/beletsky-paranal-34-cc-1.jpg?ims=412x232%2Ffilters%3Aquality%2885%29",
-        "video_url": null,
-        "source_id": "istoe",
-        "source_name": "Istoé Independente",
-        "source_priority": 239209,
-        "source_url": "https://istoe.com.br",
-        "source_icon": "https://n.bytvi.com/istoe.jpg",
-        "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-        "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-        "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
-        "duplicate": false
-    },
-    {
-        "article_id": "09d6a16c8dacf5200aa723aa0f22ff07",
-        "link": "https://www.mixvale.com.br/2025/11/18/novas-regras-da-anp-com-o-fim-de-gas-de-cozinha-acionam-alarme-de-seguranca-na-industria/",
-        "title": "Novas regras da ANP com o fim de gás de cozinha acionam alarme de segurança na indústria",
-        "description": "A proposta do Agência Nacional com o fim de Petróleo, Gás Natural bem como Biocombustíveis (ANP) com o fim de alterar a comercia",
-        "content": "ONLY AVAILABLE IN PAID PLANS",
-        "keywords": [
-            "últimas notícias"
-        ],
-        "creator": [
-            "Redação"
-        ],
-        "language": "portuguese",
-        "country": [
-            "brazil"
-        ],
-        "category": [
-            "lifestyle",
-            "top"
-        ],
-        "pubDate": "2025-11-18 05:11:32",
-        "pubDateTZ": "UTC",
-        "image_url": "https://www.mixvale.com.br/wp-content/uploads/2025/09/gas-do-povo-5.jpg",
-        "video_url": null,
-        "source_id": "mixvale",
-        "source_name": "Mix Vale",
-        "source_priority": 95409,
-        "source_url": "https://www.mixvale.com.br",
-        "source_icon": "https://n.bytvi.com/mixvale.png",
-        "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-        "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-        "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
-        "duplicate": false
-    },
-    {
-        "article_id": "db1b257d7fadfc18e9256f50c7cac2c5",
-        "link": "https://www.mixvale.com.br/2025/11/18/onde-assistir-goias-x-novorizontino-nesta-data-as-16h30-na-serrinha-pelo-brasileirao-serie-b-escalacao-confirmada/",
-        "title": "Onde assistir Goiás x Novorizontino nesta data às 16h30. na Serrinha pelo Brasileirão Série B: escalação confirmada",
-        "description": "Goiás bem como Novorizontino entram em campo neste domingo, 16 de novembro de 2025, às 16h30, no Estádio do Serrinha, no Goiânia",
-        "content": "ONLY AVAILABLE IN PAID PLANS",
-        "keywords": [
-            "últimas notícias"
-        ],
-        "creator": [
-            "Redação"
-        ],
-        "language": "portuguese",
-        "country": [
-            "brazil"
-        ],
-        "category": [
-            "lifestyle",
-            "top"
-        ],
-        "pubDate": "2025-11-18 05:11:30",
-        "pubDateTZ": "UTC",
-        "image_url": "https://www.mixvale.com.br/wp-content/uploads/2025/10/Novorizontino-2.jpg",
-        "video_url": null,
-        "source_id": "mixvale",
-        "source_name": "Mix Vale",
-        "source_priority": 95409,
-        "source_url": "https://www.mixvale.com.br",
-        "source_icon": "https://n.bytvi.com/mixvale.png",
-        "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-        "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-        "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
-        "duplicate": false
-    },
-    {
-        "article_id": "7179e7ccedef7e63b23167fd8e7b3444",
-        "link": "https://www.mixvale.com.br/2025/11/18/reencontro-inedito-na-ficcao-viviane-araujo-entra-em-tres-gracas-interpretando-o-antigo-amor-de-belo/",
-        "title": "Reencontro inédito na ficção: Viviane Araújo entra em “Três Graças” interpretando o antigo amor de Belo",
-        "description": "A atriz de Viviane Araújo está oficialmente confirmada no elenco da novela das nove Três Graças, marcando seu retorno ao drama d",
-        "content": "ONLY AVAILABLE IN PAID PLANS",
-        "keywords": [
-            "belo",
-            "novela das nove",
-            "três graças",
-            "últimas notícias",
-            "reencontro na globo",
-            "entretenimento",
-            "viviane araújo",
-            "viviane araújo no elenco de três graças",
-            "lindo"
-        ],
-        "creator": [
-            "Redação"
-        ],
-        "language": "portuguese",
-        "country": [
-            "brazil"
-        ],
-        "category": [
-            "lifestyle",
-            "top"
-        ],
-        "pubDate": "2025-11-18 05:11:17",
-        "pubDateTZ": "UTC",
-        "image_url": null,
-        "video_url": null,
-        "source_id": "mixvale",
-        "source_name": "Mix Vale",
-        "source_priority": 95409,
-        "source_url": "https://www.mixvale.com.br",
-        "source_icon": "https://n.bytvi.com/mixvale.png",
-        "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-        "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-        "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
-        "duplicate": false
-    },
-    {
-        "article_id": "2e540fa54056252392d409c024d1cc74",
-        "link": "https://www.mixvale.com.br/2025/11/18/globo-adapta-tres-gracas-bem-como-espera-que-roubo-de-estatua-em-dezembro-seja-uma-virada/",
-        "title": "Globo adapta Três Graças bem como espera que roubo de estátua em dezembro seja uma virada",
-        "description": "A Globo TV divulgou ajustes na novela Três Graças exibida às 21h, resultando na antecipação de cenas bem como no encurtam",
-        "content": "ONLY AVAILABLE IN PAID PLANS",
-        "keywords": [
-            "três graças",
-            "últimas notícias",
-            "roubo da estátua das três graças",
-            "roubo estátua três graças",
-            "gerluce",
-            "globo",
-            "novela três graças 2025",
-            "roubo de estátua",
-            "roubo estátua"
-        ],
-        "creator": [
-            "Redação"
-        ],
-        "language": "portuguese",
-        "country": [
-            "brazil"
-        ],
-        "category": [
-            "lifestyle",
-            "top"
-        ],
-        "pubDate": "2025-11-18 05:11:07",
-        "pubDateTZ": "UTC",
-        "image_url": null,
-        "video_url": null,
-        "source_id": "mixvale",
-        "source_name": "Mix Vale",
-        "source_priority": 95409,
-        "source_url": "https://www.mixvale.com.br",
-        "source_icon": "https://n.bytvi.com/mixvale.png",
-        "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-        "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-        "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
-        "duplicate": false
-    },
-    {
-        "article_id": "bb67a21b6123d024e948c34cb6d15c42",
-        "link": "https://br.investing.com/news/company-news/ixopay-nomeia-george-hansen-como-diretor-de-receita-93CH-1749178",
-        "title": "IXOPAY nomeia George Hansen como diretor de receita",
+        "article_id": "c8a5a58cd46e9062e3009d6a15629818",
+        "link": "https://br.investing.com/news/analyst-ratings/stifel-eleva-acoes-da-caretrust-reit-para-compra-devido-ao-crescimento-do-volume-de-investimentos-93CH-1749206",
+        "title": "Stifel eleva ações da CareTrust REIT para Compra devido ao crescimento do volume de investimentos",
         "description": null,
         "content": "ONLY AVAILABLE IN PAID PLANS",
         "keywords": null,
@@ -334,9 +134,9 @@
             "lifestyle",
             "top"
         ],
-        "pubDate": "2025-11-18 05:06:32",
+        "pubDate": "2025-11-18 06:52:48",
         "pubDateTZ": "UTC",
-        "image_url": "https://i-invdn-com.investing.com/news/LYNXMPEB0Q15T_M.jpg",
+        "image_url": "https://i-invdn-com.investing.com/news/international_newspapers_108x81.jpg",
         "video_url": null,
         "source_id": "investing_br",
         "source_name": "Investing Brasil",
@@ -352,16 +152,86 @@
         "duplicate": false
     },
     {
-        "article_id": "cb52ae17c7022f3a1af2a2afd1053401",
-        "link": "https://atarde.com.br/saude/remedio-antigo-para-pressao-alta-pode-frear-tumor-cerebral-diz-estudo-1368903",
-        "title": "Remédio antigo para pressão alta pode frear tumor cerebral, diz estudo",
-        "description": "Um dos medicamentos mais antigos usados para tratar hipertensão grave pode ganhar uma nova aplicação na luta contra o câncer. Cientistas da Universidade da Pensilvânia descobriram que a hidralazina, remédio utilizado há cerca de 70 anos, pode interromper o crescimento de tumores cerebrais agressivos, como o glioblastoma. O estudo, publicado na revista Science Advances, traz novas perspectivas para o uso estratégico de fármacos antigos contra doenças graves.O que a nova descoberta revela sobre a hidralazina?Embora amplamente utilizada no tratamento de hipertensão, especialmente em casos como a pré-eclâmpsia, condição responsável por até 15% das mortes maternas no mundo, a hidralazina sempre teve um mecanismo de ação pouco compreendido. Agora, pela primeira vez, os pesquisadores mapearam detalhadamente esse processo.O estudo mostrou que o medicamento bloqueia a ação da enzima ADO (2-aminoethanethiol dioxygenase), responsável por detectar os níveis de oxigênio nos vasos sanguíneos. Ao se ligar ao centro metálico dessa enzima, o remédio impede o envio de sinais que provocam a contração dos vasos. Esse bloqueio estabiliza proteínas reguladoras chamadas RGS, reduz os níveis de cálcio e resulta na dilatação dos vasos – o que diminui a pressão arterial.Do coração ao cérebro: uma ligação inesperadaAlém de desvendar o mecanismo da hidralazina, o estudo encontrou uma conexão surpreendente entre hipertensão e câncer. Células de glioblastoma, um dos tumores cerebrais mais letais, dependem da enzima ADO para sobreviver em ambientes com pouco oxigênio. Leia Também: Mounjaro pode influenciar atividade cerebral, diz estudo IA vai substituir os médicos? SUS vai utilizar IA e 5G para acelerar atendimentos Jerônimo anuncia novo hospital em Lauro de Freitas para desafogar regulação Ao aplicar a hidralazina diretamente em células de glioblastoma, os pesquisadores observaram que o medicamento induziu um estado de senescência, em que as células tumorais param de se multiplicar. Diferentemente de uma quimioterapia convencional, o fármaco não destrói as células, mas bloqueia seu crescimento, tornando-se um potencial modulador biológico.As principais observações do estudo incluem:O mesmo mecanismo que regula a pressão sanguínea pode ser usado para enfraquecer tumores cerebrais;O bloqueio da enzima ADO interrompe o ciclo de crescimento do glioblastoma;A hidralazina atua sem causar efeitos inflamatórios, o que a diferencia de tratamentos agressivos.Próximos passos: versões mais potentes e direcionadasCom a ADO identificada como alvo terapêutico, a próxima fase de pesquisa busca desenvolver versões da hidralazina com maior capacidade de atravessar a barreira hematoencefálica (proteção natural do cérebro) e agir de forma mais seletiva sobre o tecido canceroso.Para a equipe de pesquisadores, essa descoberta reforça a importância de estudar profundamente medicamentos antigos. Segundo Megan Matthews, uma das cientistas envolvidas, é raro que um remédio cardiovascular antigo ensine algo novo sobre o cérebro, mas esses achados podem abrir portas para soluções inovadoras tanto para o câncer quanto para problemas graves de pressão alta.",
+        "article_id": "e6fbb7e9dcf89a220d8cd519f310dd76",
+        "link": "https://www.terra.com.br/diversao/entenda-como-a-alimentacao-influencia-a-fertilidade-feminina-e-masculina,d1c627df9fc054a26c964793e0d84ae9ri4le7sk.html",
+        "title": "Entenda como a alimentação influencia a fertilidade feminina e masculina",
+        "description": "A infertilidade atinge milhões de casais em todo o mundo e, embora muitos associem a solução ...",
         "content": "ONLY AVAILABLE IN PAID PLANS",
         "keywords": [
-            "saúde"
+            "diversão"
         ],
         "creator": [
-            "Isabela Cardoso"
+            "Mais Novela"
+        ],
+        "language": "portuguese",
+        "country": [
+            "brazil"
+        ],
+        "category": [
+            "entertainment",
+            "top"
+        ],
+        "pubDate": "2025-11-18 06:51:33",
+        "pubDateTZ": "UTC",
+        "image_url": "https://p2.trrsf.com/image/fget/cf/1200/630/middle/images.terra.com/2025/11/18/1364211579-a-modelo-norte-americana-chrissy-teigen-foto-divulgacao.png",
+        "video_url": null,
+        "source_id": "terra",
+        "source_name": "Terra",
+        "source_priority": 24247,
+        "source_url": "https://www.terra.com.br",
+        "source_icon": "https://n.bytvi.com/terra.png",
+        "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+        "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+        "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
+        "duplicate": false
+    },
+    {
+        "article_id": "e57c54ed5318e77e11620e5bd3ef3b71",
+        "link": "https://br.investing.com/news/analyst-ratings/loop-capital-eleva-classificacao-das-acoes-da-alphabet-devido-ao-crescimento-da-ia-93CH-1749205",
+        "title": "Loop Capital eleva classificação das ações da Alphabet devido ao crescimento da IA",
+        "description": null,
+        "content": "ONLY AVAILABLE IN PAID PLANS",
+        "keywords": null,
+        "creator": [
+            "Investing.com"
+        ],
+        "language": "portuguese",
+        "country": [
+            "brazil"
+        ],
+        "category": [
+            "entertainment",
+            "top"
+        ],
+        "pubDate": "2025-11-18 06:48:32",
+        "pubDateTZ": "UTC",
+        "image_url": null,
+        "video_url": null,
+        "source_id": "investing_br",
+        "source_name": "Investing Brasil",
+        "source_priority": 33451,
+        "source_url": "https://br.investing.com",
+        "source_icon": "https://n.bytvi.com/investing_br.png",
+        "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+        "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+        "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
+        "duplicate": false
+    },
+    {
+        "article_id": "aeca07c597ae1c716d9d74b9fb3ca0e7",
+        "link": "https://br.investing.com/news/analyst-ratings/jpmorgan-rebaixa-acoes-da-hepsiburada-para-neutro-devido-a-preocupacoes-com-rentabilidade-93CH-1749204",
+        "title": "JPMorgan rebaixa ações da HepsiBurada para Neutro devido a preocupações com rentabilidade",
+        "description": null,
+        "content": "ONLY AVAILABLE IN PAID PLANS",
+        "keywords": null,
+        "creator": [
+            "Investing.com"
         ],
         "language": "portuguese",
         "country": [
@@ -371,9 +241,118 @@
             "lifestyle",
             "top"
         ],
-        "pubDate": "2025-11-18 05:04:19",
+        "pubDate": "2025-11-18 06:48:04",
         "pubDateTZ": "UTC",
-        "image_url": "https://cdn.atarde.com.br/img/Chamada-Home/1360000/Jeronimo-anuncia-novo-hospital-em-Lauro-de-Freitas0136879400202511171106.jpg?xid=6888709",
+        "image_url": "https://i-invdn-com.investing.com/news/news_pile_108x81.jpg",
+        "video_url": null,
+        "source_id": "investing_br",
+        "source_name": "Investing Brasil",
+        "source_priority": 33451,
+        "source_url": "https://br.investing.com",
+        "source_icon": "https://n.bytvi.com/investing_br.png",
+        "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+        "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+        "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
+        "duplicate": false
+    },
+    {
+        "article_id": "b2f1627ef10a56319bbaf195508245ea",
+        "link": "https://br.investing.com/news/analyst-ratings/ubs-rebaixa-recomendacao-de-acoes-da-hapvida-devido-a-pressao-nas-margens-93CH-1749203",
+        "title": "UBS rebaixa recomendação de ações da Hapvida devido à pressão nas margens",
+        "description": null,
+        "content": "ONLY AVAILABLE IN PAID PLANS",
+        "keywords": null,
+        "creator": [
+            "Investing.com"
+        ],
+        "language": "portuguese",
+        "country": [
+            "brazil"
+        ],
+        "category": [
+            "entertainment",
+            "top"
+        ],
+        "pubDate": "2025-11-18 06:47:42",
+        "pubDateTZ": "UTC",
+        "image_url": "https://i-invdn-com.investing.com/news/news_pile_108x81.jpg",
+        "video_url": null,
+        "source_id": "investing_br",
+        "source_name": "Investing Brasil",
+        "source_priority": 33451,
+        "source_url": "https://br.investing.com",
+        "source_icon": "https://n.bytvi.com/investing_br.png",
+        "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+        "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+        "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
+        "duplicate": false
+    },
+    {
+        "article_id": "2c5add6d9b8d0d0e3ac042d297d8061c",
+        "link": "https://atarde.com.br/esportes/tocedora-do-avai-comete-injuria-racial-na-serie-b-olha-tua-cor-1368923",
+        "title": "Tocedora do Avaí comete injúria racial na Série B: “Olha tua cor”",
+        "description": "O episódio de injúria racial e xenofobia registrado durante Avaí x Remo, pela 37a rodada da Série B, segue repercutindo após a divulgação de um vídeo em que uma torcedora avaiana profere ofensas contra torcedores paraenses. A partida ocorreu no último sábado, na Ressacada, em Florianópolis.Nas imagens, a mulher aparece acompanhada por outros torcedores enquanto dirige ataques à torcida visitante. Entre as falas captadas, ela diz: “Olha a tua cor. [...] Vão embora de jegue. O que tem no Pará? Seu feio. Vão embora porque o prefeito não quer pobre aqui. Gastou o salário para vir, vai ter que voltar a pé”. Pessoas ao redor também são vistas cometendo ofensas contra os torcedores do Remo.Assista: Rapaz, que nojo! No jogo Avaí x Remo, uma torcedora do time de Santa Catarina protagonizou uma série de ofensas racistas, xenófobas e preconceituosas, atacando torcedores paraenses como se tivesse algum tipo de “superioridade”. Que essa pessoa seja encontrada e responsabilizada.... pic.twitter.com/YQiuEarquS— Lázaro Rosa 🇧🇷 (@lazarorosa25) November 18, 2025Diante do caso, o Ministério Público de Santa Catarina (MPSC) instaurou um procedimento administrativo por meio da 29a Promotoria de Justiça da Capital. Um ofício foi enviado à Polícia Militar e ao Avaí, que afirmou colaborar com as investigações e trabalhar para identificar a torcedora envolvida.Em nota oficial, o Avaí classificou a conduta como racista e xenófoba, reafirmando sua política de tolerância zero. O clube destacou que a responsável terá o acesso a jogos e eventos suspenso assim que for identificada. O texto também reforça o compromisso do clube com ações educativas e combate ao racismo:“O racismo é um crime grave que não pode ser tolerado dentro ou fora dos estádios”, diz o trecho inicial do posicionamento, que termina afirmando que “não basta não ser racista, é preciso ser antirracista”. Leia Também: Família de Neymar assume marca Pelé e abre tratativas com o Santos Bahia ou Ceará? Lateral emprestado analisa retorno ao Tricolor em 2026 Após Wagner Leonardo, Fábio Mota revela \"assédio\" do Bahia por atletas O Remo também se manifestou, repudiando os ataques sofridos por seus torcedores:“Esse ato repugnante é uma clara manifestação de racismo e intolerância, e não pode ficar impune”, diz a nota. O clube paraense ressaltou sua postura de enfrentamento à discriminação e destacou que tais práticas são incompatíveis com sua história e valores.A equipe azulina ainda denunciou um segundo caso envolvendo seu zagueiro Reynaldo, alvo de injúria racial nas redes sociais após um áudio divulgado por páginas na internet. O clube informou prestar apoio ao jogador e afirmou que tomará medidas jurídicas para identificar o autor:“A intolerância, a discriminação e o preconceito precisam ser combatidos, seja no esporte ou em qualquer lugar na sociedade”, diz a nota.",
+        "content": "ONLY AVAILABLE IN PAID PLANS",
+        "keywords": [
+            "esportes"
+        ],
+        "creator": [
+            "Redação"
+        ],
+        "language": "portuguese",
+        "country": [
+            "brazil"
+        ],
+        "category": [
+            "lifestyle",
+            "top"
+        ],
+        "pubDate": "2025-11-18 06:45:57",
+        "pubDateTZ": "UTC",
+        "image_url": "https://cdn.atarde.com.br/img/Chamada-Home/1360000/Apos-Wagner-Leonardo-Fabio-Mota-revela-assedio-do-0136889100202511171955.jpg?xid=6889706",
+        "video_url": null,
+        "source_id": "atarde",
+        "source_name": "A Tarde",
+        "source_priority": 57528,
+        "source_url": "https://www.atarde.com.br",
+        "source_icon": "https://n.bytvi.com/atarde.png",
+        "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+        "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+        "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
+        "duplicate": false
+    },
+    {
+        "article_id": "d4ecc8c2cb4c695d0976fd9012fb952d",
+        "link": "https://atarde.com.br/politica/stf-publica-decisao-bolsonaro-corre-contra-o-tempo-para-evitar-papuda-1368922",
+        "title": "STF publica decisão: Bolsonaro corre contra o tempo para evitar Papuda",
+        "description": "O ex-presidente Jair Bolsonaro (PL) passou a enfrentar uma nova corrida contra o tempo depois que o Supremo Tribunal Federal (STF) publicou, nesta terça-feira, 18, o acórdão (decisão final) do julgamento que rejeitou — por unanimidade — os recursos dele e de outros seis réus do núcleo 1 da chamada trama golpista.A publicação no Diário Oficial de Justiça abre oficialmente a contagem do prazo para que as defesas apresentem novos recursos. Agora, os advogados têm cinco dias para protocolar embargos infringentes, uma das últimas tentativas de reverter ou adiar o resultado.A decisão sobre aceitar ou não esses novos recursos caberá ao ministro Alexandre de Moraes, relator do processo. Ele pode enviar os embargos para análise do plenário ou rejeitá-los de forma individual, caso considere que se tratam de medidas meramente protelatórias — o que aceleraria a execução das penas.Risco de prisão imediataBolsonaro está em prisão domiciliar desde 4 de agosto, mas o cenário pode mudar rapidamente. Com a fase recursal chegando ao fim, a previsão é que o ex-presidente inicie o cumprimento da pena em regime fechado ainda neste mês.Uma das possibilidades em discussão é o envio dele para o Complexo Penitenciário da Papuda, em Brasília, que abriga outros investigados e condenados pelos atos golpistas.",
+        "content": "ONLY AVAILABLE IN PAID PLANS",
+        "keywords": [
+            "política"
+        ],
+        "creator": [
+            "Yuri Abreu"
+        ],
+        "language": "portuguese",
+        "country": [
+            "brazil"
+        ],
+        "category": [
+            "lifestyle",
+            "top"
+        ],
+        "pubDate": "2025-11-18 06:40:55",
+        "pubDateTZ": "UTC",
+        "image_url": "https://cdn.atarde.com.br/img/Artigo-Destaque/1360000/Moraes-ja-teria-definido-onde-Bolsonaro-cumpriria-0136801500202511111141.jpg?xid=6889929",
         "video_url": null,
         "source_id": "atarde",
         "source_name": "A Tarde",
