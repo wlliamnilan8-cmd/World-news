@@ -2,7 +2,7 @@ import requests
 import json
 import os
 
-API_KEY = os.environ.get("NEWSDATA_API_KEY")
+API_KEY = os.getenv("NEWSDATA_API_KEY")
 
 URL = "https://newsdata.io/api/1/news"
 
@@ -13,27 +13,34 @@ params = {
     "category": "top",
 }
 
-def fetch_news():
-    response = requests.get(URL, params=params)
-    data = response.json()
+def main():
+    print("Usando API KEY:", API_KEY)
 
-    # Se a API retornar erro
+    resp = requests.get(URL, params=params)
+    print("Status Code:", resp.status_code)
+
+    # Mostrar parte da resposta para debug
+    print("Resposta da API (primeiros 200 chars):")
+    print(resp.text[:200])
+
+    # Converter resposta para JSON
+    try:
+        data = resp.json()
+    except Exception as e:
+        print("ERRO AO LER JSON DA API:", e)
+        print("Resposta completa:")
+        print(resp.text)
+        return
+
     if "results" not in data:
-        return {
-            "error": True,
-            "message": data.get("message", "Erro desconhecido"),
-            "data": data
-        }
-
-    return data["results"]
-
-def save_news():
-    noticias = fetch_news()
+        print("API retornou erro ou formato inesperado:")
+        print(data)
+        return
 
     with open("noticias.json", "w", encoding="utf-8") as f:
-        json.dump(noticias, f, indent=4, ensure_ascii=False)
+        json.dump(data["results"], f, indent=4, ensure_ascii=False)
 
-    print("Arquivo noticias.json atualizado com sucesso!")
+    print("noticias.json atualizado com sucesso!")
 
 if __name__ == "__main__":
-    save_news()
+    main()
