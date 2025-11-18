@@ -10,11 +10,11 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-      - name: Checkout (com histórico completo)
+      - name: Checkout com token e histórico completo
         uses: actions/checkout@v3
         with:
-          token: ${{ secrets.GH_TOKEN }}
-          fetch-depth: 0   # <---- ESSENCIAL
+          token: ${{ secrets.GH_TOKEN }}   # <---- ESSENCIAL
+          fetch-depth: 0                   # <---- ESSENCIAL
 
       - name: Instalar Python
         uses: actions/setup-python@v4
@@ -34,7 +34,7 @@ jobs:
           git config --global user.name "github-actions"
           git config --global user.email "actions@github.com"
 
-          # Puxa mudanças antes do push
+          # Puxar alterações do repositório remoto
           git pull --rebase --autostash
 
           git add noticias.json
