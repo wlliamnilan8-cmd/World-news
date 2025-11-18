@@ -2,28 +2,38 @@ import requests
 import json
 import os
 
-API_KEY = os.getenv("NEWSAPI_KEY")
+API_KEY = os.environ.get("NEWSDATA_API_KEY")
 
-# Fontes permitidas no plano gratuito
-fontes = "globo,uol,exame,info-money,techcrunch"
+URL = "https://newsdata.io/api/1/news"
 
-url = f"https://newsapi.org/v2/top-headlines?sources={fontes}&pageSize=100&apiKey={API_KEY}"
+params = {
+    "apikey": API_KEY,
+    "country": "br",
+    "language": "pt",
+    "category": "top",
+}
 
-resp = requests.get(url)
-dados = resp.json()
+def fetch_news():
+    response = requests.get(URL, params=params)
+    data = response.json()
 
-artigos = dados.get("articles", [])
+    # Se a API retornar erro
+    if "results" not in data:
+        return {
+            "error": True,
+            "message": data.get("message", "Erro desconhecido"),
+            "data": data
+        }
 
-noticias_formatadas = []
-for a in artigos:
-    noticias_formatadas.append({
-        "titulo": a.get("title", "Sem título"),
-        "descricao": a.get("description", "Sem descrição"),
-        "imagem": a.get("urlToImage", "https://via.placeholder.com/800x400"),
-        "link": a.get("url", "#")
-    })
+    return data["results"]
 
-with open("noticias.json", "w", encoding="utf-8") as arq:
-    json.dump(noticias_formatadas, arq, ensure_ascii=False, indent=4)
+def save_news():
+    noticias = fetch_news()
 
-print("Arquivo noticias.json atualizado com sucesso!")
+    with open("noticias.json", "w", encoding="utf-8") as f:
+        json.dump(noticias, f, indent=4, ensure_ascii=False)
+
+    print("Arquivo noticias.json atualizado com sucesso!")
+
+if __name__ == "__main__":
+    save_news()
