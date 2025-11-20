@@ -10,10 +10,10 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-      - name: Checkout
+      - name: Checkout com token
         uses: actions/checkout@v3
         with:
-          token: ${{ secrets.GITHUB_TOKEN }}
+          token: ${{ secrets.GH_TOKEN }}
           fetch-depth: 0
 
       - name: Instalar Python
@@ -24,17 +24,18 @@ jobs:
       - name: Instalar dependências
         run: pip install requests
 
-      - name: Rodar gerador
+      - name: Rodar gerador de notícias
         env:
           NEWSDATA_API_KEY: ${{ secrets.NEWSDATA_API_KEY }}
         run: python .github/scripts/gerar_noticias.py
 
-      - name: Commit e push
+      - name: Commit e push das notícias
         run: |
           git config --global user.name "github-actions"
           git config --global user.email "actions@github.com"
 
-          git pull --rebase --autostash || true
+          git pull --rebase --autostash
+
           git add noticias.json
 
           if git diff --cached --quiet; then
