@@ -1,82 +1,82 @@
 [
     {
-        "titulo": "Navier-Stokes: como a OpenAI pode ter resolvido um dos maiores desafios da matemática",
-        "descricao": "A OpenAI apresentou uma solução para o problema de existência e suavidade das equações de Navier-Stokes. A prova, produzida por um sistema interno de IA, indica que as equações podem desenvolver uma singularidade em tempo finito. A OpenAI anunciou uma solução para o problema de existência e suavidade de Navier-Stokes, um dos Millennium Prize Problems. Crédito: OpenAI As equações de Navier-Stokes descrevem matematicamente o movimento de fluidos incorporando velocidade, pressão e viscosidade. O problema do milênio pergunta se em três dimensões uma solução inicialmente suave pode permanecer suave para todo o tempo ou se pode desenvolver uma singularidade. Essa questão permanece aberta há cerca de 90 anos e é difícil responder porque envolve a interação não linear entre diferentes escalas do escoamento. Com isso, ela é considerada como um dos Millennium Prize Problems que são problemas matemáticos ainda abertos selecionados pelo Clay Mathematics Institute. A OpenAI anunciou uma prova, apresentada em um trabalho de 166 páginas, que afirma demonstrar que uma solução inicialmente suave das equações pode desenvolver uma singularidade em tempo finito. O argumento corresponde às formulações que pedem a demonstração de um cenário dessa singularidade. As equações de Navier-Stokes As equações de Navier-Stokes são um conjunto de equações diferenciais parciais que descrevem o movimento de fluidos, como líquidos e gases. Elas expressam a conservação de massa e quantidade de movimento. A dinâmica é determinada pela interação entre termos de advecção, gradiente de pressão e difusão viscosa. Quando se fala em singularidade nesse caso, ela significa que alguma grandeza, como a velocidade ou sua derivada, poderia tornar-se ilimitada em um intervalo finito de tempo. O desafio matemático surge principalmente do caráter não linear das equações, especialmente do termo convectivo. Em três dimensões, ainda não se sabe provar, para condições iniciais suaves, se as soluções permanecem regulares para todo o tempo ou se podem desenvolver uma singularidade em tempo finito. Prêmio do milênio O problema de existência e suavidade de Navier-Stokes questiona se as equações para um fluido incompressível tridimensional podem desenvolver uma singularidade em tempo finito. Nesse cenário, a velocidade do fluido poderia crescer sem limite em um intervalo finito, apesar da viscosidade, que tende a dissipar e suavizar o escoamento. Um sistema interno com cerca de 10 mil agentes de IA trabalhou de forma coordenada e chegou ao resultado após aproximadamente 88 horas de investigação. Crédito: OpenAI As equações foram desenvolvidas a partir dos trabalhos de Claude-Louis Navier e George Gabriel Stokes no século XIX. O que permanece em aberto é provar se as soluções continuam suaves para todo o tempo, ou se uma singularidade pode surgir. Resultado A OpenAI afirmou essa semana ter produzido uma prova analítica mostrando que um fluido inicialmente em repouso e com condições suaves pode desenvolver uma singularidade em tempo finito. O resultado demonstra um cenário em que a velocidade do fluido cresce sem limite, enquanto a energia permanece finita durante toda a evolução. Artigo relacionado NASA procura voluntários para identificar vórtices em imagens de Júpiter A singularidade surge em uma estrutura do tipo vórtice, que se concentra e se alonga progressivamente, fazendo com que a região central diminua enquanto a velocidade aumenta. Essa divergência não é causada por uma força externa: os próprios termos não lineares das equações tornam-se grandes e se cancelam de maneira precisa. Como conseguiram chegar nesse resultado? O resultado surgiu após a OpenAI iniciar, em 1o de setembro, uma avaliação de problemas matemáticos usando um sistema de agentes. No caso de Navier-Stokes, diferentes grupos receberam versões incluindo as formulações que exigem uma prova de regularidade e as que buscam demonstrar a existência de uma singularidade. A solução descreve um vórtice que se concentra e se alonga: conforme a singularidade se aproxima, a região de fluxo intenso diminui enquanto a velocidade do fluido aumenta. Crédito: OpenAI O grupo responsável pela solução envolveu cerca de 10 mil agentes simultâneos. Um passo decisivo ocorreu quando os agentes resolveram primeiro um problema relacionado às equações de Euler. A solução foi obtida em 5 de setembro, cerca de 88 horas após o início do experimento, e sua formalização e verificação em Lean exigiram mais 17 horas.",
-        "imagem": "https://services.meteored.com/img/article/navier-stokes-como-a-openai-pode-ter-resolvido-um-dos-maiores-desafios-da-matematica-1789232253403_1280.png",
-        "fonte": "tempoin",
-        "link": "https://www.tempo.com/noticias/actualidade/navier-stokes-como-a-openai-pode-ter-resolvido-um-dos-maiores-desafios-da-matematica.html",
-        "data": "2026-09-13 10:16:00"
+        "titulo": "São Paulo acerta com Pedro Lima por empréstimo do Wolverhampton",
+        "descricao": "O São Paulo acertou a contratação do lateral-direito Pedro Lima por empréstimo junto ao Wolverhampton, da Inglaterra. O jogador defenderá a equipe paulista até o término da atual temporada. O acordo inclui cláusulas com bônus por participação em partidas que podem estender a permanência do atleta até maio do ano que vem. Divisão salarial e [...]",
+        "imagem": "https://www.mixvale.com.br/wp-content/uploads/2026/09/pedro-lima-wolverhampton.jpg",
+        "fonte": "mixvale",
+        "link": "https://www.mixvale.com.br/2026/09/13/sao-paulo-acerta-com-pedro-lima-por-emprestimo-do-wolverhampton/",
+        "data": "2026-09-13 12:51:36"
     },
     {
-        "titulo": "Florestas amazônicas não se recuperam sozinhas depois do fogo",
-        "descricao": "Pesquisas mostram que queimadas recorrentes podem alterar a estrutura e a composição da floresta",
-        "imagem": "https://static.poder360.com.br/uploads/2026/09/amazonia-queimadas-1600x686.png",
-        "fonte": "poder360_br",
-        "link": "https://www.poder360.com.br/poder-sustentavel/florestas-amazonicas-nao-se-recuperam-sozinhas-depois-do-fogo/",
-        "data": "2026-09-13 10:15:55"
+        "titulo": "Prefeitura apura fiscalização de obra que desabou na zona leste de SP; cinco pessoas morreram",
+        "descricao": "Prédio de 11 andares subiu sem alvará desde 2019, acumulou multas e teve paralisação determinada pela Justiça",
+        "imagem": "",
+        "fonte": "correiodopovo",
+        "link": "https://www.correiodopovo.com.br/not%C3%ADcias/cidades/prefeitura-apura-fiscalizacao-de-obra-que-desabou-na-zona-leste-de-sp-cinco-pessoas-morreram-1.1747374",
+        "data": "2026-09-13 12:51:07"
     },
     {
-        "titulo": "Flávio Bolsonaro se encontrou secretamente com Queiroz, o pivô do escandâlo das rachadinhas",
-        "descricao": "Flávio Bolsonaro e Fabrício Queiroz teriam se reunido em Brasília após insistência do ex-assessor; senador pediu distância durante a campanha.",
-        "imagem": "https://www.diariodocentrodomundo.com.br/wp-content/uploads/2026/09/imagem-principal-flavio-bolsonaro-queiroz-encontro-brasilia-queiroz-1200x722.jpg",
-        "fonte": "diariodocentrodomundo",
-        "link": "https://www.diariodocentrodomundo.com.br/flavio-bolsonaro-queiroz-encontro-brasilia/",
-        "data": "2026-09-13 10:15:36"
+        "titulo": "Mau tempo reduz atividades públicas dos candidatos ao Governo de MS",
+        "descricao": "A chuva mudou a programação de parte dos candidatos ao Governo de Mato Grosso do Sul neste domingo (13). Fábio Trad (PT) decidiu dedicar o dia à gravação de programas para a televisão. Os compromissos externos da campanha ficarão a cargo da candidata a vice-governadora, Dona Gilda. Programação começa às 8h30, com panfletagem na Feira das Moreninhas. Às 10h, haverá a inauguração do comitê Lula Presidente, na Rua Guaracaí, número 130, no Bairro Moreninhas III. À tarde, estão previstas reuniões na Comunidade Aldeia Água Bonita, às 13h, e no Instituto Certa, no Jardim Los Angeles, às 15h. A agenda termina com entrevista ao vivo à Folha TV, às 17h30, e reunião no Bairro Tiradentes, às 18h. João Henrique Catan (Novo) terá um compromisso pessoal pela manhã. À tarde, reúne-se com a equipe de campanha e participa de um adesivaço em bairros de Campo Grande. Na segunda-feira (14), o candidato segue para municípios do centro-sul do Estado, onde pretende encontrar apoiadores, conceder entrevistas e visitar estabelecimentos comerciais. Sem atividades abertas ao público, Jeferson Bezerra (Agir) passará o dia gravando conteúdo para as redes sociais. Eduardo Riedel (PP) também não terá compromissos públicos neste domingo. Até a publicação desta matéria, Daniel Lemes (PCO), Delcídio Amaral (PRD/Solidariedade), Renato Gomes (DC) e Lucien Rezende (PSOL/Rede) não haviam encaminhado suas agendas.",
+        "imagem": "https://cdn6.campograndenews.com.br/uploads/noticias/2026/09/13/6aa69a56234a6.png",
+        "fonte": "campograndenews",
+        "link": "https://www.campograndenews.com.br/politica/mau-tempo-reduz-atividades-publicas-dos-candidatos-ao-governo-de-ms",
+        "data": "2026-09-13 12:51:00"
     },
     {
-        "titulo": "Levante x Barcelona: onde assistir, horário e escalações",
-        "descricao": "Equipes se enfrentam neste domingo, 13, pela 5a rodada da La Liga",
-        "imagem": "https://veja.abril.com.br/wp-content/uploads/2026/09/GettyImages-1246353685.jpg",
-        "fonte": "veja_abril_br",
-        "link": "https://veja.abril.com.br/esporte/levante-x-barcelona-onde-assistir-horario-e-escalacoes-2/",
-        "data": "2026-09-13 10:15:24"
-    },
-    {
-        "titulo": "Material de construção recupera ganho em agosto",
-        "descricao": "",
-        "imagem": "https://www.dgabc.com.br/content/themes/dgabc2017/imagens/logo_dgabc_facebook.jpg",
+        "titulo": "Prefeitura apura fiscalização de obra que desabou na zona leste de SP",
+        "descricao": "O balanço mais recente da ocorrência na Penha aponta cinco mortos e uma pessoa desaparecida sob os escombros",
+        "imagem": "https://www.dgabc.com.br/Imagens/Home/Index/202691395058.jpg?altura=100",
         "fonte": "dgabc",
-        "link": "https://www.dgabc.com.br/Noticia/4346618/material-de-construcao-recupera-ganho-em-agosto",
-        "data": "2026-09-13 10:15:00"
+        "link": "https://www.dgabc.com.br/Noticia/4346634/prefeitura-apura-fiscalizacao-de-obra-que-desabou-na-zona-leste-de-sp-",
+        "data": "2026-09-13 12:51:00"
     },
     {
-        "titulo": "Felicidade dos trabalhadores brasileiros cai 9,3% em um ano",
-        "descricao": "O índice de felicidade dos brasileiros no trabalho recuou de 7,5 em 2025 para 6,8 em 2026 (considerando escala de 0 a 10); uma queda de 9,3%, de acordo com levantamento realizado pela Pluxee e pela plataforma The Happiness Index. A pesquisa, obtida com exclusividade pelo Valor, ouviu 11,2 mil profissionais e tem como objetivo diagnosticar a saúde cultural das organizações. Matéria exclusiva para assinantes. Para ter acesso completo, acesse o link da matéria e faça o seu cadastro.",
-        "imagem": "https://s2-valor.glbimg.com/fjXY97_2eiHQXKUmiilS9ZSIXs0=/i.s3.glbimg.com/v1/AUTH_63b422c2caee4269b8b34177e8876b93/internal_photos/bs/2026/p/c/9XL8vXRWeP7OX5tssA4w/pexels-yankrukov-7640809.jpg",
-        "fonte": "valor_globo",
-        "link": "https://valor.globo.com/carreira/noticia/2026/09/13/felicidade-dos-trabalhadores-brasileiros-cai-93percent-em-um-ano.ghtml",
-        "data": "2026-09-13 10:15:00"
+        "titulo": "Feminino: Veja o press kit de Itabirito x Vasco",
+        "descricao": "Guia da partida Itabirito x Vasco - Feminino Fonte: Divulgação",
+        "imagem": "https://netvasco.com.br/img/logo_mini.jpg",
+        "fonte": "netvasco_br",
+        "link": "https://www.netvasco.com.br/n/392569/feminino-veja-o-press-kit-de-itabirito-x-vasco",
+        "data": "2026-09-13 12:51:00"
     },
     {
-        "titulo": "Material de construção recupera ganho em agosto",
-        "descricao": "As vendas da indústria de materiais de construção deram sinais de recuperação. O faturamento do setor em agosto cresceu 1,1%, ante julho, e 3,6% em relação a agosto de 2025. Os dados, que descontam a inflação no período, são da Associação Brasileira da Indústria de Materiais de Construção (Abramat). No acumulado do ano, as vendas [...]",
-        "imagem": "https://tribunadepetropolis.com.br/app/themes/tribuna-petropolis/assets/images/tpet-og.jpg",
-        "fonte": "tribunadepetropolis_br",
-        "link": "https://tribunadepetropolis.com.br/noticias/material-de-construcao-recupera-ganho-em-agosto/",
-        "data": "2026-09-13 10:15:00"
+        "titulo": "Eleições dos bois Caprichoso e Garantido acontecem neste domingo em Manaus e Parintins; confira",
+        "descricao": "Candidatos à presidência dos bois Garantido e Caprichoso. Divulgação Associados dos bois-bumbás Garantido e Caprichoso escolhem, neste domingo (13), as novas diretorias que vão comandar as agremiações pelos próximos anos. As eleições ocorrem de forma presencial em Manaus e Parintins. A votação será em cédulas de papel, pois o Tribunal Regional Eleitoral do Amazonas (TRE-AM) não disponibilizou urnas eletrônicas por causa do período de preparação das eleições oficiais. Para votar, os sócios devem apresentar um documento oficial com foto. 📲 Participe do canal do g1 AM no WhatsApp Eleição: votação vai definir presidentes dos Bois Caprichoso e Garantido Locais e horários de votação A votação em Manaus ocorre no Sambódromo para os dois bois. Já em Parintins, os locais são diferentes para cada agremiação: ⭐ Caprichoso: Em Manaus, a votação vai das 8h às 15h no Sambódromo. Em Parintins, ocorre na Escolinha de Artes do Caprichoso (ao lado do Curral Zeca Xibelão), das 8h às 17h. ❤️ Garantido: Em Manaus, os sócios votam das 8h às 17h no Sambódromo. Em Parintins, a eleição é realizada no Centro de Educação de Tempo Integral (Ceti) Gláucio Gonçalves, no bairro São Vicente de Paula, das 8h às 17h. A apuração dos votos começa logo após o encerramento da votação em Parintins. Eleições dos bois Garantido e Caprichoso: veja os candidatos à presidência Disputa no Boi Caprichoso Duas chapas concorrem à presidência do Caprichoso. Apenas os associados em dia com a agremiação têm direito ao voto. Chapa Renovação e Tradição: Formada pelo advogado Márcio Azêdo (candidato a presidente) e por Afrânio Gonçalves (candidato a vice-presidente). Chapa Caprichoso Unido, Forte e Vencedor: Liderada por Diego Mascarenhas, atual vice-presidente do boi e diretor-geral da Marujada de Guerra, ao lado de Edwan Oliveira (candidato a vice-presidente). Disputa no Boi Garantido Três chapas disputam o comando do Garantido. Diferente do rival, o boi vermelho permitiu a participação de associados inadimplentes. Chapa Por um Garantido Campeão: Encabeçada por Marialvo Brandão, artista plástico e atual vice-presidente da agremiação, ao lado de Albano Albuquerque (candidato a vice-presidente). Chapa Garantido Campeão: Tem como candidato a presidente o cantor Rafael Júnior, que integra o grupo de intérpretes do boi, e Clodoaldo Batista como vice. Chapa Raízes Fortes: Liderada por Ronildo Monteverde, neto do fundador do boi, Lindolfo Monteverde, e ex-presidente da agremiação em 1995. Ele disputa com Alan Gomes como candidato a vice-presidente. SAIBA MAIS: Eleições Boi Caprichoso 2026: Diego Mascarenhas disputa presidência; confira propostas Eleições Boi Caprichoso 2026: Márcio Azêdo disputa presidência; confira propostas Eleições Boi Garantido 2026: Marialvo Brandão disputa presidência; confira propostas Eleições Boi Garantido 2026: Ronildo Monteverde disputa presidência; confira propostas",
+        "imagem": "https://s2-g1.glbimg.com/WCtg7tRwDGtWe6xuaCFcWTEWOzQ=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/x/2/AXmaWHTLaJt0IbZNPTQQ/g1-presidentes-bois.jpg",
+        "fonte": "g1globo",
+        "link": "https://g1.globo.com/am/amazonas/noticia/2026/09/13/eleicoes-dos-bois-caprichoso-e-garantido-acontecem-neste-domingo-em-manaus-e-parintins-confira.ghtml",
+        "data": "2026-09-13 12:50:57"
     },
     {
-        "titulo": "Bertrand: BRICS constrói instituições para uma nova era",
-        "descricao": "Documento abrange finanças, IA, segurança alimentar e reforma multilateral e amplia agenda do Sul Global",
-        "imagem": "https://www.brasil247.com/wp-content/uploads/2026/09/z0txti0gx2we99xeiopsxf8kptz12x6t.jpeg",
-        "fonte": "brasil247",
-        "link": "https://www.brasil247.com/brics/bertrand-brics-constroi-instituicoes-para-uma-nova-era/",
-        "data": "2026-09-13 10:13:46"
+        "titulo": "Casa é incendiada e mobiliza Bombeiros no Madre Gertrudes, em BH",
+        "descricao": "Casa é incendiada no bairro Madre Gertrudes em BH Corpo de Bombeiros de Minas Gerais Uma residência no bairro Madre Gertrudes, na região Oeste de Belo Horizonte, pegou fogo neste noite de sábado (12). Bombeiros militares, que atenderam a ocorrência, relaram que uma mulher usuária de drogas teria iniciado o incêndio no imóvel e fugido em seguida. Há relatos de que a suspeita tem o costume de queimar fios de cobre no local. ✅ Clique aqui para seguir o canal do g1 MG no WhatsApp Dentro da casa havia uma idosa e uma criança, que foram retiradas antes da chegada das equipes dos bombeiros.Os militares combateram as chamas e acionaram a Defesa Civil. Vistoria no imóvel Após o rescaldo da área, na madrugada deste domingo (13), a Defesa Civil de Belo Horizonte compareceu ao local e vistoriou o imóvel. A edificação, localizada na Rua Jaime Salse, tem dois pavimentos. No primeiro, que fica no nível da rua, foi constatado a queda de revestimentos, comprometimento da rede elétrica, marcas de fuligem e materiais queimados na varanda, sala e quarto, além da calçada em frente ao imóvel. Já no segundo pavimento, foram identificadas, aparentemente, apenas marcas de fuligem Agora no g1 Áreas isoladas e assistência Como medida preventiva, os ambientes atingidos pelo incêndio foram isolados para restringir o acesso e reduzir a exposição aos riscos identificados. A Defesa Civil também informou que disponibilizou uma cesta básica, dois colchões, dois cobertores e dois lençóis como assistência humanitária. Veja os vídeos mais assistidos do g1 Minas:",
+        "imagem": "https://s2-g1.glbimg.com/Fa3t4hxnDQ36qBQ8gu7ooMqNqtc=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/w/M/LI9FFhQ6AwVDx0UsF0ug/incendio-madre-gertrudes.jpeg",
+        "fonte": "g1globo",
+        "link": "https://g1.globo.com/mg/minas-gerais/noticia/2026/09/13/casa-e-incendiada-e-mobiliza-bombeiros-no-madre-gertrudes-em-bh.ghtml",
+        "data": "2026-09-13 12:50:57"
     },
     {
-        "titulo": "Casal de idosos cuidou durante anos da árvore onde se conheceram pela primeira vez, ao voltar de viagem, descobrem que vizinho mandou cortar a árvore de lugar sem autorização, por risco de cair em cima de sua residência, os idosos alegam que deveriam ter sido informados primeiro",
-        "descricao": "Entenda como localização, risco, laudo e licença influenciam o caso entre vizinhos The post Casal de idosos cuidou durante anos da árvore onde se conheceram pela primeira vez, ao voltar de viagem, descobrem que vizinho mandou cortar a árvore de lugar sem autorização, por risco de cair em cima de sua residência, os idosos alegam que deveriam ter sido informados primeiro appeared first on O Antagonista .",
-        "imagem": "https://cdn.oantagonista.com/uploads/2026/09/Tronco_cortado_no_quintal_20260911132555.jpg",
-        "fonte": "oantagonista",
-        "link": "https://oantagonista.com.br/ladooa/entretenimento/casal-de-idosos-cuidou-durante-anos-da-arvore-onde-se-conheceram-pela-primeira-vez-ao-voltar-de-viagem-descobrem-que-vizinho-mandou-cortar-a-arvore-de-lugar-sem-autorizacao-por-risco-de-cair-em-cim/",
-        "data": "2026-09-13 10:13:00"
+        "titulo": "13a Feira de Artes na Primavera movimenta Praça do Campo Grande",
+        "descricao": "A Praça do Campo Grande será palco para a 13a Feira de Artes na Primavera. Tradicional do calendário de Salvador, o evento está previsto para acontecer entre os dias 18 a 27 de setembro, das 09h às 20h.Ao todo, serão mais de 400 expositores entre artesãos e culinária, inclusive vegana. Além de apresentações culturais de temas voltados para a primavera e a sustentabilidade, com programação completa para toda a família.Dentre os destaques de impacto na Feira estão a cerâmica de Maragogipinho, a \"Rua Talentos da Bahia (local que agrupa os artesãos vindos dos mais de 40 Municípios) e a \"Rua Feira das Mães Atípicas\", um espaço que garante apoio estrutural e visibilidade para mais de 50 mães atípicas empreendedoras. “Chegar aos 22 anos da ADABA realizando um evento dessa magnitude é a prova da força dos artesãos e das artes da Bahia. Nossa maior felicidade, no entanto, é o impacto social que promovemos”, destaca João Duraes, coordenador da Associação Dos Artesãos da Bahia (ADABA), organizadora do evento.“Apoiar os artesãos, o empreendedorismo feminino e de nossas mães atípicas e garantir espaços de valor social para os expositores é o que dá o verdadeiro sentido e beleza a esta feira”, completa.",
+        "imagem": "https://cdn.atarde.com.br/img/Artigo-Destaque/1400000/13-feira-de-artes-na-primavera-movimenta-praca-do-0140188500202609130950.jpg?xid=7219593",
+        "fonte": "atarde",
+        "link": "https://atarde.com.br/salvador/13-feira-de-artes-na-primavera-movimenta-praca-do-campo-grande-1401885",
+        "data": "2026-09-13 12:50:48"
     },
     {
-        "titulo": "Homem morre durante rodeio às margens de rodovia e evento é cancelado em cidade de MT",
-        "descricao": "",
-        "imagem": "https://odocumento.com.br/content/images/2026/09/75e8615fe940452a4c265e4ca38a49d3.jpg",
-        "fonte": "odocumento",
-        "link": "https://odocumento.com.br/homem-morre-durante-rodeio-as-margens-de-rodovia-e-evento-e-cancelado-em-cidade-de-mt/",
-        "data": "2026-09-13 10:12:00"
+        "titulo": "Desabamento de prédio na Zona Leste de SP deixa cinco mortos; obra estava irregular",
+        "descricao": "Construção na Penha já havia sido interditada e alvo de multas; uma pessoa segue desaparecida sob os escombros",
+        "imagem": "https://veja.abril.com.br/wp-content/uploads/2026/09/imagem-principal-desabamento-predio-penha-tres-mortos-sao-paulo-17892581396aa5e99bd07a4_1789258139_3x2_rt.webp",
+        "fonte": "veja_abril_br",
+        "link": "https://veja.abril.com.br/brasil/desabamento-de-predio-na-zona-leste-de-sp-deixa-cinco-mortos-obra-estava-irregular/",
+        "data": "2026-09-13 12:50:45"
+    },
+    {
+        "titulo": "Três pessoas são presas suspeitas de sequestrar neta de ganhador da Mega-Sena no ES",
+        "descricao": "Duas mulheres e um homem foram presos, neste fim de semana, por suspeita de estarem envolvidos no sequestro de uma adolescente, neta de um homem que faturou um prêmio da Mega-Sena. O crime ocorreu no dia 16 de março, em Barra de São Francisco, no Noroeste do Espírito Santo. Os suspeitos foram presos durante a Operação Sorte Reversa, deflagrada pela Polícia Civil por meio da Superintendência de Polícia Regional Noroeste e da Delegacia Regional de Barra de São Francisco, e que teve como objetivo desarticular a organização criminosa. De acordo com a Polícia Civil, as duas mulheres foram localizadas e detidas no Estado da Bahia. Já o homem foi preso no Espírito Santo. A operação contou, também, com o apoio da Polícia Militar da Bahia (CIPE/Mata Atlântica - CAEMA), Polícia Civil da Bahia (PCBA), Núcleo de Operações e Transporte Aéreo da Secretaria da Casa Militar (Notaer) e a Polícia Penal do Espírito Santo (PPES).Mais informações sobre a operação serão divulgadas durante uma coletiva, prevista para acontecer ainda neste domingo (13).",
+        "imagem": "https://cdn2.tribunaonline.com.br/img/Artigo-Destaque/330000/Tres-pessoas-sao-presas-suspeitas-de-sequestrar-ne0033056600202609130950.jpg?xid=1521625",
+        "fonte": "tribunaonline_br",
+        "link": "https://tribunaonline.com.br/policia/tres-pessoas-sao-presas-suspeitas-de-sequestrar-neta-de-ganhador-da-mega-sena-no-es-330566",
+        "data": "2026-09-13 12:50:26"
     }
 ]
